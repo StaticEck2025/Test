@@ -1,0 +1,24 @@
+ - make players able to avoid collision ? (depending on strength)
+ - be able to change attacking and collision distances
+ - when a cpu player has the ball, and the second closest to the ball is an enemy and it the direction of the goal, and there are more than 1 player per teams, pass.
+
+ - correct ref_pos scale with overlaping
+ - change difficulty : shrink team charateristics
+ - use health and endurance, and make stronger players avoid attacks
+ - what to do if choose twice the same team ?
+ - make xml for fields ?
+
+ - add fight mode AI
+ - better integration of team select in menu2 => make a special goto in menu.xml ?
+ 
+Retrogamelib bugs :
+ - menu size
+ - dialog progress too soon
+ - added center_shift to help centering text
+
+Doc :
+ - possible to take the ball when someone is goint to shoot
+ - you can ask your teamate to pass the ball to the closest player of your team
+ - you can ask your teamate to shoot, in the direction you give
+
+
